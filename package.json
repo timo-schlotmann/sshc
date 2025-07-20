@@ -1,0 +1,29 @@
+{
+  "name": "sshc",
+  "version": "0.0.1",
+  "description": "Reserved package name for the upcoming SSHC CLI tool.",
+  "bin": {
+    "sshc": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/timo-schlotmann/sshc.git"
+  },
+  "keywords": [
+    "sshc",
+    "ssh",
+    "cli",
+    "tunnel",
+    "utility",
+    "placeholder"
+  ],
+  "author": "Timo Schlotmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timo-schlotmann/sshc/issues"
+  },
+  "homepage": "https://github.com/timo-schlotmann/sshc#readme"
+}
